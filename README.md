@@ -6,7 +6,7 @@ I am a Computer Engineering graduate interested in software development, web dev
 
 
 # 💫 About Me:
-I am currently strengthening my skills in frontend development, with experience working with HTML, CSS.
+I am currently strengthening my skills in frontend development, with experience working with HTML, CSS, JavaScript and React.
 
 
 ## 🌐 Socials:
